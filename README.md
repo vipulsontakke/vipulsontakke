@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @vipulsontakke
-- 👀 I’m hate Coding 
-- 🌱 I’m currently learning Meachine Learning
-- 💞️ I’m looking to collaborate on ... No
+- 👋 Hi, I’m @vipulsontakke 
+- 🌱 I’m currently learning Descriptive Analytics
+- 💞️ I’m looking to collaborate on Web Development / Database
 - 📫 How to reach me = infront of my computer
 
 <!---
